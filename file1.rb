@@ -1,1 +1,1 @@
-Medidaa
+puts "Medidata"
